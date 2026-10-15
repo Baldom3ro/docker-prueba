@@ -1,0 +1,7 @@
+{
+  "name": "docker-prueba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
